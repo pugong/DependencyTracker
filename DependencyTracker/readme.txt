@@ -1,0 +1,2 @@
+﻿usage:
+DependencyTracker  sourcefilesfolder resultfilefolder
